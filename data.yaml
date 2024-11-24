@@ -1,0 +1,8 @@
+path : 'D:\Sumit Codes\Fire'
+
+train : 'D:\Sumit Codes\Fire\train'
+val : 'D:\Sumit Codes\Fire\valid'
+
+names :
+  0: fire
+  1: not fire
